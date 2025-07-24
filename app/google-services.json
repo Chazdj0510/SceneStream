@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442749724113",
+    "project_id": "scenestreaming",
+    "storage_bucket": "scenestreaming.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442749724113:android:d6ca927e70d43f49cc2cf0",
+        "android_client_info": {
+          "package_name": "com.example.scenestream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHmO2q4_4RmKQIKLq9QoF5OEBBXWgLsYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

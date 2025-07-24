@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SceneStream</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+    <string name="app_title">SceneStream</string>
+    <string name="todo">TODO</string>
+    <string name="scenestream_logo">SceneStream Logo</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don’t have an account? Sign up</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="toggle_password_visibility">Toggle Password Visibility</string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="toggle_password">Toggle Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="app_logo">App Logo</string>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dark_gray">#555555</color>
+    <color name="purple_500">#6200EE</color>
+    <string-array name="theme_options">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System Default</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>system</item>
+    </string-array>
+</resources>
