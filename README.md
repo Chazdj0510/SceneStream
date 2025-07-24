@@ -48,3 +48,15 @@ To enable Firebase features:
   - users → name, email, profilePicUrl
   - movies → title, posterUrl
   - genres → name, iconUrl
+
+---
+
+## Demo Walkthrough
+- ![Demo](demo/SceneStreamWalkthrough.mp4)
+
+---
+
+## 🧑‍💻 Author
+
+Created by **Chastidy Joanem**  
+GitHub: @chazdj0510(https://github.com/chazdj0510)
