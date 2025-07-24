@@ -52,11 +52,9 @@ To enable Firebase features:
 ---
 
 ## Demo Walkthrough
-- [![Watch Demo](demo/SceneStreamWalkthrough.mp4)
+- [![Watch Demo](<img width="205" height="365" alt="image" src="https://github.com/user-attachments/assets/0b0d7dbd-2e2f-4fd0-a8b6-bb89b7e8fa1a" />)](demo/SceneStreamWalkthrough.mp4)
 
 ---
-<img width="205" height="365" alt="image" src="https://github.com/user-attachments/assets/0b0d7dbd-2e2f-4fd0-a8b6-bb89b7e8fa1a" />
-
 
 ## 🧑‍💻 Author
 
