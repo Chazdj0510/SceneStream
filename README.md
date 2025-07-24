@@ -45,6 +45,6 @@ To enable Firebase features:
 - Add your google-services.json file to /app
 - Enable Firebase Authentication (Email/Password)
 - Configure Firestore with collections:
--   users → name, email, profilePicUrl
--   movies → title, posterUrl
--   genres → name, iconUrl
+  - users → name, email, profilePicUrl
+  - movies → title, posterUrl
+  - genres → name, iconUrl
